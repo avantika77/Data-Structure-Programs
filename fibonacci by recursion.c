@@ -29,4 +29,6 @@ int main() {
     printf("\n");
     return 0;
 }
-
+#OUTPUT-----------------------------------------------------------------------------------------
+Enter the number of terms in the Fibonacci series: 8
+Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13
