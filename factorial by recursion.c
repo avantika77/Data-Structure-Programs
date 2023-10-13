@@ -26,3 +26,4 @@ int main() {
 
     return 0;
 }
+//factorial of a number is example of recursion
