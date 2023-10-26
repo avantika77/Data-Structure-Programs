@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>         //header file
 #include <stdlib.h>
 
 // Structure for a node in the binary tree
@@ -53,3 +53,5 @@ int main() {
 
     return 0;
 }
+===========================================================================================================================
+    OUTPUT:The binary tree is complete.
