@@ -106,3 +106,55 @@ int main() {
 
     return 0;
 }
+===============================================================================================================================================
+OUTPUT---------------------------------
+*********** MENU *************
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 1
+Enter the number of elements to push: 3
+Enter element 1: 34
+34 pushed onto the stack
+Enter element 2: 54
+54 pushed onto the stack
+Enter element 3: 56
+56 pushed onto the stack
+*********** MENU *************
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 4
+Stack elements: 56 54 34 
+-----------------------------------------------------------------------------    
+*********** MENU *************
+1. Push
+2. Pop
+3. Peek
+4. Display
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 2
+Popped element: 56
+*********** MENU *************
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 4
+Stack elements: 54 34
+*********** MENU *************
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 3
+Top element: 54
