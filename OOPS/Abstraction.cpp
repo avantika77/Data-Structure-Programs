@@ -27,8 +27,9 @@ int main()
     obj.display();
     return 0;
 }
-
+============================================================================================================================================
 abstraction using header file
+----------------------------------
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -42,8 +43,10 @@ int main()
     return 0;
 }
 
+=========================================================================================================================================
 //abstraction  using class
-#include <iostream>
+---------------------------------
+ #include <iostream>
 using namespace std;
 class Sum{
     private:int x ,y ,z;
