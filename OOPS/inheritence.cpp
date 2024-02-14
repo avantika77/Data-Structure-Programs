@@ -1,4 +1,4 @@
-#include <iostream>
+de#include <iostream>
 
 class Person {
     // parent class
@@ -33,5 +33,5 @@ int main() {
     return 0;
 }
 
-
+__________________________________________________
 inheritance concept in c++
